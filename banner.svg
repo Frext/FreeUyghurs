@@ -29,7 +29,7 @@
     <clipPath id="round-corners"><rect width="100%" height="100%" rx="3"/></clipPath>
   </defs>
 
-  <a href="#">
+  <a href="https://frext.github.io/StandWithUyghurs">
     <g clip-path="url(#round-corners)">
       <rect x="0" y="0" width="100%" height="100%" class="flag-white"/>
       <rect x="0" y="0" width="100%" height="90px" class="flag-blue"/>
