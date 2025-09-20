@@ -11,11 +11,11 @@
     }
     .message {
       fill: white;
-      font-size: 18px;
+      font-size: 20px; /* updated to 20px */
     }
     .call {
       fill: black;
-      font-size: 22px;
+      font-size: 22px; /* unchanged */
     }
     .flag-blue {
       fill: #559ee2;
@@ -35,20 +35,16 @@
       <rect x="0" y="0" width="100%" height="90px" class="flag-blue"/>
     </g>
 
-    <text x="50%" y="25" class="message" text-anchor="middle">
-      <tspan x="50%" dy="0.2em">China is imprisoning millions of Uyghurs in detention camps and</tspan>
-      <tspan x="50%" dy="1.2em">systematically erasing their cultural identity.</tspan>
-      <tspan x="50%" dy="1.2em">Please help us defend human rights in East Turkestan.</tspan>
+    <text x="50%" y="24" class="message" text-anchor="middle">
+      <tspan x="50%" dy="0.2em">China is imprisoning millions of Uyghurs in detention camps</tspan>
+      <tspan x="50%" dy="1.3em">and systematically erasing their cultural identity.</tspan>
+      <tspan x="50%" dy="1.3em">Please help defend human rights in East Turkestan.</tspan>
     </text>
 
-    <text x="50%" y="86%" dominant-baseline="middle" text-anchor="middle" class="call">
-      Help East Turkestan ➔
+    <text x="50%" y="87%" dominant-baseline="middle" text-anchor="middle" class="call">
+      Help Uyghurs ➔
     </text>
 
     <rect x="0" y="0" width="100%" height="100%" fill="none" stroke="black" stroke-width="2" clip-path="url(#round-corners)" />
   </a>
-
 </svg>
-
-
-
